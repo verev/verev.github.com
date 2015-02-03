@@ -1,0 +1,3 @@
+[submodule "strandeddeep"]
+	path = strandeddeep
+	url = https://github.com/verev/stranded-deep-mapper.git
